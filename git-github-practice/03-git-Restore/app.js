@@ -1,1 +1,1 @@
-console.log('restore file from staging area');
+console.log('rstore file from staging area');
