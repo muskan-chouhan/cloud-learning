@@ -1,1 +1,1 @@
-console.log("practice pull command");
+console.log("practice pull command.");
