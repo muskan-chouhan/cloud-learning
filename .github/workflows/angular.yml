@@ -19,6 +19,8 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
+        working-directory: git-github-practice/19-angular-build-workflow/angular-app
 
       - name: Build Angular App
         run: npm run build
+        working-directory: git-github-practice/19-angular-build-workflow/angular-app
