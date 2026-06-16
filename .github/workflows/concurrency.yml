@@ -25,4 +25,4 @@ jobs:
         working-directory: git-github-practice/21-job-currnency/next-app
 
       - name: Deploy App
-        run: echo "Deploying app"
+        run: echo "Deploying App"
