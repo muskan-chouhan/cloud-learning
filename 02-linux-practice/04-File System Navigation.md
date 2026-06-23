@@ -185,3 +185,6 @@ View content page by page.
 ## Key Learning
 
 Linux file system navigation involves moving between directories, creating files and folders, viewing content, copying, moving and deleting resources using terminal commands.
+
+
+-----
