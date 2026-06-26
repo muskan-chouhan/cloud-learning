@@ -188,3 +188,26 @@ Linux file system navigation involves moving between directories, creating files
 
 
 -----
+
+
+## Path Types
+
+### Absolute Path
+
+Starts from Root (/).
+
+Example
+
+/home/ubuntu/project
+
+### Relative Path
+
+Starts from current directory.
+
+Examples
+
+cd project
+
+cd ..
+
+cd ../..
