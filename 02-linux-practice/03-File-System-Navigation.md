@@ -151,6 +151,9 @@ q → Quit
 
 Display last 10 lines.
 
+tail -f = fall (continue update lines show)
+Ctrl + C -exit
+
 ### more
 
 View content page by page.
@@ -195,3 +198,6 @@ Shows previously executed commands.
 # man  >manual
 Shows the manual (documentation) of a command.
 ---
+
+
+
