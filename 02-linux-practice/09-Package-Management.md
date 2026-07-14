@@ -106,3 +106,5 @@ Real World: Used when you don't know the exact package name.
 Example:
 
 apt show nginx
+
+use :- detail about package
