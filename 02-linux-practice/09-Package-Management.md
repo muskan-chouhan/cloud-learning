@@ -101,3 +101,8 @@ apt search docker
 
 Real World: Used when you don't know the exact package name.
 
+# apt show
+
+Example:
+
+apt show nginx
