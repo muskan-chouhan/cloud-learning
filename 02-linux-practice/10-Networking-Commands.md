@@ -159,11 +159,9 @@ Used to troubleshoot DNS issues.
 Displays network connections and listening ports.
 
 Syntax:
-
-```bash
 ss -tuln
-```
 
+ 
 Useful Options:
 
 - t → TCP
