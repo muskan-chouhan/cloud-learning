@@ -172,9 +172,8 @@ Useful Options:
 
 Example:
 
-```bash
 ss -tulpn
-```
+
 
 Real World:
 
