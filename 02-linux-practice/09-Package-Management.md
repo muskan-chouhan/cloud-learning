@@ -91,7 +91,7 @@ Real World:
 Searches for available software packages.
 
 Syntax: apt search package_name
-`
+
 
 Example:
 
