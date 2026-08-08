@@ -287,4 +287,4 @@ Amazon CloudWatch is AWS's monitoring service.
 
 It collects metrics, visualizes performance, creates alarms, and sends notifications using Amazon SNS.
 
-CloudWatch does not fix problems automatically; it detects issues and alerts administrators.
+CloudWatch does not fix problems automatically; it detects issues and alerts administrators.      
